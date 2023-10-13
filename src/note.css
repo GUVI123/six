@@ -1,0 +1,11 @@
+.content{
+    position:absolute;
+width: 1030px;
+height: 150;
+  margin-left:150px;
+    background-color: #e4dada;
+    overflow-x: hidden;
+    transition: 0.3s;
+    padding-top: 100px;
+    text-align: center;
+}

@@ -1,0 +1,15 @@
+
+.aa {
+    height: 100%;
+    width: 100px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #e4dada;
+    overflow-x: hidden;
+    transition: 0.3s;
+    padding-top: 60px;
+    text-align: center;
+  }
+  
+  
